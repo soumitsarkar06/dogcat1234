@@ -1,0 +1,9 @@
+.git/
+.idea/
+__pycache__/
+images/
+static/
+.gitignore
+app.py
+Procfile
+runtime.txt
